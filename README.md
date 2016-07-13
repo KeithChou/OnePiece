@@ -25,7 +25,7 @@ Bootstrap的脚本文件、css文件、jquery脚本文件都是引用官网提�
 4.标签页(tabs)：使用bootstrap提供的内置js tabs插件。点击相应的按钮会显示相应的人物介绍，其他人物介绍也相应隐藏。
   实现非常简单，通过为div添加.nav .nav-tabs和id即可交替显示。
   
-5.脚部(footer)：这个没什么好说的，两个p标签，添加了Bootstrap内置的类.pull-left .pullright让节点左、右浮动即可。
+5.脚部(footer)：这个没什么好说的，两个p标签，添加了Bootstrap内置的类.pull-left .pull-right让节点左、右浮动即可。
 
 6.下拉列表(dropdown)：这个使用了bootstrap提供的组件dropdown，实现起来挺方便也是添加相应的类即可。效果是点击相应的人物
   会跳转到标签页下的人物介绍。 这里我写了一点jquery来实现跳转。
